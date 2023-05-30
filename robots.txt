@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amwlim.github.io/aylwin_lim//sitemap.xml
+Sitemap: https://amwlim.github.io/sitemap.xml
