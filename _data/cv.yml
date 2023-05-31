@@ -70,19 +70,24 @@
   contents:
     - year: 2023
       items: 
-        - Presidential Fellowship (Academia Sinica -Taiwan International Graduate Program)
+        - Presidential Fellowship 
+          - Academia Sinica -Taiwan International Graduate Program
     - year: 2022
       items: 
-        - Reviewers' Choice Abstract (American Society of Human Genetics Annual Meeting)
+        - Reviewers' Choice Abstract 
+          - American Society of Human Genetics Annual Meeting
     - year: 2022
       items: 
-        - Best Oral Presentation / Travel Award (Institute of Biomedical Science Research Day)
+        - Best Oral Presentation / Travel Award 
+          - Institute of Biomedical Science Research Day
     - year: 2019 & 2018
       items:
-        - Young Investigator Award (Diabetes Asia Conference)
+        - Young Investigator Award 
+          - Diabetes Asia Conference
     - year: 2007 - 2013 
       items:
-        - Full Scholarship (Pre-University & Undergraduate) by Public Service Department of Malaysia
+        - Full Scholarship (Pre-University & Undergraduate) 
+          - Public Service Department of Malaysia
 
 - title: Academic Interests
   type: nested_list
