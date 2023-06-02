@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Development of Deep Generative Models for Synthesizing Genomic Data at Scale to Improve Disease Risk Prediction
+description: Research project with colleagues
 img: assets/img/3.jpg
 importance: 2
 category: work

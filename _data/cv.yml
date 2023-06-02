@@ -15,18 +15,25 @@
       institution: National Yang Ming Chiao Tung University & Institute of Biomedical Sciences, Taipei, Taiwan
       year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Statistical genetics & genetic epidemiology
+        - Data science & bioinformatics
+        - title: Unsupervised Learning in Complex Diseases for Precision Medicine (Thesis Project)
+          contents: 
+            - Thesis Advisor Professor Cathy S.J. Fann
     - title: Master of Pharmacy (MPharm)
       institution: University College London (UCL), London, UK
       year: 2009 - 2013
       description:
-        - Description 1.
-        - Description 2.
+        - Second Class Honours (Upper Division) GPA 3.7
+        - Final year advanced options Molecular Basis of Diseases and Curing Cancer
+        - title: Natural products targeting Hypoxia-Inducible Factor 1 (HIF-1) (Thesis Project)
+          contents: 
+            - Thesis Advisor Dr Stephen Hilton
+    - title: Edexcel A-Levels
+      institution: UCSI University, KL, MY
+      year: 2007 - 2009
+      description:
+        - Full distinctions (4As) in Biology, Chemistry, Physics and Mathematics
 
 - title: Experience
   type: time_table
@@ -34,36 +41,45 @@
     - title: Graduate Student
       institution: ASUS Intelligent Cloud Services (AICS), Taipei, TW
       year: 2022 - Present
+    
+    - title: Laboratory Manager
+      institution: Clinical Research Centre Molecular Diagnostic Laboratory for COVID-19, Kuching, Sarawak, MY
+      year: 2020 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Led the set-up of a molecular diagnostic lab for COVID-19 testing
+        - Developed and drafted SOP for testing and PPE procedures
+        - Trained relevant laboratory personnel and managed the staff schedule
 
     - title: Research Pharmacist
       institution: Clinical Research Centre, Sarawak General Hospital, Kuching, Sarawak, MY
       year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Conducting research projects either as principal investigator or co-investigator
+        - Managing and dispensing investigational product for industry sponsored trials as research pharmacist
+        - study coordinator for bioequivalence studies conducted in my centre, responsible for managing the clinical operation for the studies
+        - Managing the clinical research pharmacy unit
+        - Reviewing research protocol as part of the hospital research review committee
 
     - title: Clinical / Inpatient Pharmacist
       institution: Betong Hospital, Betong, Sarawak, MY
       year: 2015 - 2016
+      description:
+        - Involved in the daily ward rounds with a team of doctors and nurses, mainly in pharmacotherapy review and management
+        - Managed the medications for patients who are admitted to general medical ward from admission until discharge
+        - Pharmacist in-charge of the inpatient pharmacy which supplies medication to several wards in the hospital
 
     - title:  Pre-Registration Pharmacist
       institution: Sarawak General Hospital, Kuching, Sarawak, MY
       year: 2014 - 2015
       description:
+        - Undergone a series of rotations in different units under the pharmacy department including therapeutic drug monitoring, medication adherence clinic, outpatient pharmacy, inpatient pharmacy, clinical pharmacy, cytotoxic drug reconstitution, total parenteral nutrition and drug information services
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title:  Barista / Shift Supervisor (Part Time)
+      institution: Starbucks Coffee Company (UK) Limited
+      year: 2011 - 2013
+      description:
+        - Supervised the staffs during the shifts, inventory ordering and management, accounting and barista duty
+
 
 - title: Honors and Awards
   type: time_table
@@ -89,17 +105,62 @@
         - Full Scholarship (Pre-University & Undergraduate) 
           - Public Service Department of Malaysia
 
-- title: Academic Interests
-  type: nested_list
+- title: Competitive Research Funding Awarded
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2021
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Ministry of Science and Technology, Taiwan
+          - Towards Precision Medicine Endophenotypes Identification and Validation Utilizing Genomic Data-Driven Clustering Approaches in Complex Diseases
+          - NTD970k/USD32k
+  contents:
+    - year: 2019
+      items: 
+        - Malaysia Ministry of Health Research Grant
+          - Prospective observational study on the epidemiology of true resistant hypertension
+          - MYR380k/USD93k
+          - Co-investigator
+    contents:
+    - year: 2019
+      items: 
+        - Malaysia Ministry of Health Research Grant
+          - A Panel of Biomarkers in Diagnosing Late-Onset Neonatal Sepsis and Necrotizing Enterocolitis
+          - MYR280k/USD67k
+          - Co-investigator
+    contents:
+    - year: 2017
+      items: 
+        - Malaysia Ministry of Health Research Grant
+          - Association between the Estimation of Insulin Resistance and Beta Cell Function through Homeostasis Model Assessment with Uncontrolled Type 2 Diabetes
+          - MYR140k/USD34k
+          - Principal investigator
+
+- title: Other Experiences
+  type: time_table
+  contents:
+    - year: 2021 - 2023
+        items: 
+          - TIGP Dormitory Mentor
+  contents:
+    - year: 2019 - 2020
+        items:   
+          - Volunteer / Responder / Day Director
+            - Befrienders Kuching (Suicide prevention hotline)
+  contents:
+    - year: 2018 - 2020
+        items:
+          - Medical Outreach Volunteer
+            - MERCY Malaysia  
+  contents:
+    - year: 2017 - 2020
+        items:
+          - Medical Outreach Pharmacist
+            - Sarawak NGO Medical outreach programmes to rural areas in Sarawak
+  contents:
+    - year: 2011 - 2013
+        items: 
+          - Captain
+             - Shaolin Kungfu Club University of London Student Union (ULU)
 
 - title: Other Interests
   type: list

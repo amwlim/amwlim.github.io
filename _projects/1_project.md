@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Unsupervised Learning in Complex Diseases for Precision Medicine 
+description: Thesis Project for PhD in Molecular Medicine
 img: assets/img/12.jpg
 importance: 1
 category: work
