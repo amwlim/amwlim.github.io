@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1st February 1989
     - name: Languages
-      value: English, Mandarin, Malay, Chinese dialects
+      value: English, Mandarin, Malay
 
 - title: Education
   type: time_table
